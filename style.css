@@ -1,0 +1,12 @@
+
+html,body{
+
+    background-color: whitesmoke;
+    width: 100%;
+}
+
+#haut{
+    width:98%;
+    height:40%;
+    background-color:palegoldenrod;
+}
